@@ -18,7 +18,7 @@ nltk.download('averaged_perceptron_tagger_eng')
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
-from sentence_transformers import CrossEncoder
+#from sentence_transformers import CrossEncoder
 lemmatizer=WordNetLemmatizer()
 #cross_encoder_model=CrossEncoder('cross-encoder/stsb-roberta-base')
 #sbert_embedder=SentenceTransformer('all-MiniLM-L6-v2')
