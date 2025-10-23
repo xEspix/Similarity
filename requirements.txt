@@ -1,8 +1,5 @@
 Flask
 scikit-learn
-transformers
-sentence-transformers
-scipy
 nltk
 regex
 gunicorn
